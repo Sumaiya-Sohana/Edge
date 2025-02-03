@@ -10,17 +10,17 @@ const Slider = () => {
       <h2 className="text-2xl font-bold mb-4">Featured Books</h2>
       <div className="flex gap-4">
         <img
-          src="https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.webp"
+          src="a.jpg"
           className="w-32 h-48 object-cover rounded-lg"
           alt="Book Cover 1"
         />
         <img
-          src="https://img.daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.webp"
+          src="b.jpg"
           className="w-32 h-48 object-cover rounded-lg"
           alt="Book Cover 2"
         />
         <img
-          src="https://img.daisyui.com/images/stock/photo-1414694762283-acccc27bca85.webp"
+          src="c.jpg"
           className="w-32 h-48 object-cover rounded-lg"
           alt="Book Cover 3"
         />
@@ -34,17 +34,17 @@ const Slider = () => {
       <h2 className="text-2xl font-bold mb-4">New Arrivals</h2>
       <div className="flex gap-4">
         <img
-          src="https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp"
+          src="m.jpg"
           className="w-32 h-48 object-cover rounded-lg"
           alt="New Book 1"
         />
         <img
-          src="https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.webp"
+          src="x.jpg"
           className="w-32 h-48 object-cover rounded-lg"
           alt="New Book 2"
         />
         <img
-          src="https://img.daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.webp"
+          src="y.webp"
           className="w-32 h-48 object-cover rounded-lg"
           alt="New Book 3"
         />
