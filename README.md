@@ -2,7 +2,7 @@
 
 ### 1. **Clone the Repository**  
 Clone the project repository to your local development environment using the following command:
-git clone https://github.com/Asif-748/TourX.git
+git clone https://github.com/Sumaiya-Sohana/Edge.git
 ### 2. **Install Dependencies**  
 Open your terminal and run this command to install required dependencies:
 npm install
